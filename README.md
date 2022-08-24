@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maya
 - 👀 I’m interested in Light life and love
-- 🌱 I’m currently learning Python, Game, Web
+- 🌱 I’m currently Everything
 
 
 <!---
